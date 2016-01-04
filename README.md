@@ -1,4 +1,6 @@
 # Cron-Jobs
-Backup and clear scripts than can be run on a host (i.e. GoDaddy)
+These scripts will help automate backup and clear tasks.
 
-Set up to run in $HOME/cron/type_of_backup
+Coded as bash scripts than can be run as cron jobs on a host (i.e. GoDaddy).
+
+Set up to run in $HOME/cron/
